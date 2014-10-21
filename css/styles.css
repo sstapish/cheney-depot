@@ -3,7 +3,7 @@
 /*Gloabal*/
 
 body {
-    background: url(..//img/brickwall.png);
+    background: url(..//img/shattered.png);
     padding: 20px;
 }
  /*section {
@@ -15,14 +15,15 @@ body {
 
 }
 /* Layout */
-.logo {
-    max-width: 200px;
-    padding-left: 0;
-}
 
 h1 {
     text-align: center;
 }
+
+section {
+    margin-top: 20%;
+}
+
 
 /* Typography */
 h1, h2, h3, h4, p {
@@ -46,15 +47,15 @@ ul {
 /* links and buttons */
 li .button {
     margin-right: 20px;
-    color: #f0ede9;
+    color: #e8ded5;
 }
 
 .button {
-	background: #595148;
+	background: #424242;
 }
 
 .button:hover {
-	background: #665e51;
+	background: #4f4f4f;
 }
 
 
