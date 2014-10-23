@@ -33,8 +33,7 @@ h1, h2, h3, h4, p {
 }
 
 h1, h2, h3 {
-    font-family: 'Droid Serif', serif;
-    
+    font-family: 'Droid Serif', serif;   
 }
 
 p {
@@ -45,6 +44,7 @@ p {
 ul {
     list-style: none;
 }
+
 
 /* links and buttons */
 li .button {
