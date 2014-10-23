@@ -5,7 +5,8 @@
 /*Gloabal*/
 
 body {
-    background: url(..//img/retro.png);
+    background: url(..//img/shattered.png);
+
     padding: 20px;
 }
  /*section {
@@ -18,12 +19,15 @@ body {
 }
 /* Layout */
 .logo {
-    max-width: 200px;
-    padding-left: 0;
+    max-width: 75%;
 }
 
 h1 {
     text-align: center;
+}
+
+section {
+    margin-top: 15%;
 }
 
 /* Typography */
@@ -32,8 +36,7 @@ h1, h2, h3, h4, p {
 }
 
 h1, h2, h3 {
-    font-family: 'Varela Round', sans-serif;
-    
+    font-family: 'Droid Serif', serif;   
 }
 
 p {
@@ -45,18 +48,19 @@ ul {
     list-style: none;
 }
 
+
 /* links and buttons */
 li .button {
-    margin-right: 20px;
-    color: #f0ede9;
+    margin-right: 10px;
+    color: #e8ded5;
 }
 
 .button {
-	background: #595148;
+	background: #424242;
 }
 
 .button:hover {
-	background: #665e51;
+	background: #4f4f4f;
 }
 
 
